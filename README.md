@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Amanda🧕</h1>
-<h3 align="center">A students who are active in seeking opportunities and connected to data:)</h3>
+<h3 align="center">A students who active in seeking opportunities and connected to data:)</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
